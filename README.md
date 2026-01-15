@@ -1,42 +1,50 @@
 # PresTech - FrontEnd
-## ✨ Descripción del Proyecto
-Este repositorio alberga el código del FrontEnd (interfaz de usuario) del sitio web de PresTech. Es la aplicación web que interactúa con el BackEnd de PresTech para mostrar datos, gestionar la navegación y manejar las interacciones del usuario.
 
-El proyecto está configurado con Vite, proporcionando una experiencia de desarrollo rápida, y utiliza React para la construcción de la interfaz mediante componentes.
+## ✨ Descripción del Proyecto
+
+Este repositorio contiene el código del **FrontEnd** del proyecto **PresTech**, una aplicación web desarrollada con arquitectura cliente-servidor.
+
+El frontend es responsable de la **interfaz de usuario**, la **navegación**, la **visualización de datos** y la **interacción con el usuario**, comunicándose con el BackEnd de PresTech mediante una API REST.
+
+El proyecto fue desarrollado utilizando **React** y **Vite**, permitiendo una experiencia de desarrollo rápida y una interfaz moderna basada en componentes.
+
+---
 
 ## 🛠️ Tecnologías Utilizadas
-Este proyecto fue iniciado con la plantilla React + Vite, lo que establece un entorno de desarrollo moderno y eficiente.
 
-Framework: React
+El proyecto fue iniciado con la plantilla **React + Vite**, estableciendo un entorno de desarrollo moderno y eficiente.
 
-Construcción y Servidor de Desarrollo: Vite
+- **Framework:** React  
+- **Herramienta de construcción:** Vite  
+- **Lenguaje principal:** JavaScript / JSX  
+- **Gestión de paquetes:** npm  
+- **Estilos:** Tailwind CSS  
 
-Lenguaje Principal: JavaScript / JSX 
-
-Gestión de Paquetes: npm 
-
-Estilos: Tailwind CSS
+---
 
 ## ⚙️ Configuración e Instalación
 Sigue estos pasos para configurar y ejecutar la aplicación de FrontEnd en tu entorno local.
 
-Requisitos Previos
+### 🔧 Requisitos Previos
 Asegúrate de tener instalado el siguiente software:
 
 Node.js: Versión 18+ (Recomendado)
 
 npm (incluido con Node.js)
 
-## IMPORTANTE
+## ⚠️ Importante
 
-Para que esto funcione es necesario descargar el Backend https://github.com/JorgeIRamos/PresTech-BackEnd
+Para que este FrontEnd funcione correctamente, es necesario tener en ejecución el BackEnd del proyecto:
+
+👉 https://github.com/RigoMarquez/PresTech---BackEnd
+
 
 ## Pasos de Instalación
 Clonar el Repositorio:
 
 ```bash
-  git clone https://github.com/JorgeIRamos/ProyectoPresTech.git
-  cd ProyectoPresTech
+  git clone https://github.com/RigoMarquez/ProyectoWebPresTech-Fronted.git
+  cd ProyectoWebPresTech-Fronted
    ```
 
 
@@ -55,6 +63,28 @@ Para iniciar el servidor de desarrollo, lo que permite ver los cambios instantá
    ```
 La aplicación estará disponible en tu navegador en la dirección que indique la consola (usualmente http://localhost:5173/).
 
-## 👨‍💻 AUTOR
+---
+
+🤝 Trabajo en Equipo
+
+Este proyecto fue desarrollado como proyecto académico en equipo.
+
+Mi participación incluyó:
+
+Desarrollo de componentes en React
+
+Integración del frontend con la API del backend
+
+Manejo de estados y navegación
+
+Apoyo en pruebas y validación del sistema
+
+👨‍💻 Autores
+
+Rigoberto Márquez Fernández
 
 Jorge Iván Ramos Murgas
+
+📌 Nota
+
+Este repositorio se conserva con fines educativos y de portafolio, y representa un proyecto desarrollado durante el proceso de formación académica en tecnologías de desarrollo web.

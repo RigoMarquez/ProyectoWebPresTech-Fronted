@@ -44,7 +44,7 @@ Clonar el Repositorio:
 
 ```bash
   git clone https://github.com/RigoMarquez/ProyectoWebPresTech-Fronted.git
-  cd ProyectoWebPresTech-Fronted
+  cd ProyectoWebPresTech-Fronted/ProyectoWebPresTech
    ```
 
 
